@@ -1,0 +1,6 @@
+## Ignoraremos los archivos de entrenamiento en GIT
+
+*.h5
+./model
+
+
